@@ -1,6 +1,6 @@
 /*--- Sarah's Styles ---*/
 
-.sarahs-advice {
+.jerryd-advice {
 	text-align:center;
 }
 
@@ -9,7 +9,7 @@
 	font-size: 24px;
 	color: #F06;
 	padding-bottom: 50px;
-	padding-top: 50px;	
+	padding-top: 50px;
 }
 
 .sarahs-advice h4 {
@@ -18,7 +18,7 @@
 	font-style: italic;
 }
 
-.sarahs-advice p {	
+.sarahs-advice p {
 	line-height: 40px;
 	font-size: 18px;
 }
